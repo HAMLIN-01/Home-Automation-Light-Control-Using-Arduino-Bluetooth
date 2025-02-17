@@ -1,5 +1,5 @@
 # Home-Automation-Light-Control-Using-Arduino-Bluetooth
-This project demonstrates a simple home automation system where a light bulb can be turned on and off using a mobile app via Bluetooth. The system is built using an Arduino UNO and programmed in Embedded C using Arduino IDE. 
+This project demonstrates a home automation system where a light bulb can be turned on and off using a mobile app via Bluetooth. The system is built using an Arduino UNO and programmed in Embedded C using Arduino IDE. 
 # Features
 Wireless control of a light bulb using a smartphone.
 Uses the Arduino Bluetooth Controller app for easy operation.
